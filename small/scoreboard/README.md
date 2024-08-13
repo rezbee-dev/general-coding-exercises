@@ -12,3 +12,6 @@
   - Add Entry
   - Remove Entry
   - Edit Entry
+
+## Output
+_todo_
